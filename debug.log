@@ -1,0 +1,6 @@
+[0726/120057.964:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\settings.dat: Eriþim engellendi. (0x5)
+[0726/120058.046:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Boru sonlandý. (0x6D)
+[0726/120058.119:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\settings.dat: Eriþim engellendi. (0x5)
+[0726/215745.975:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\settings.dat: Eriþim engellendi. (0x5)
+[0726/215746.084:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Boru sonlandý. (0x6D)
+[0726/215746.084:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\settings.dat: Eriþim engellendi. (0x5)
